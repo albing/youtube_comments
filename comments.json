@@ -1,0 +1,762 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SKj8ObIJqXLXtqJbPiru7ofxHiA\"",
+  "nextPageToken": "QURTSl9pMVpDTm1FUWNTek8wSDl3VkM3SkYwU3NQdHhYcXE3SWFrREZGam1BUllJUHBLQVVzTkdzSHBBZGJNVnNkOEprTFRIVXE1MmdTVFV1VlBTeFpBOVl3VnYzd084SmplRm5rUWdBSUEwREdLczhVOVY4c3p4cUlNOXNXOGVLREZGMXhGMzI0OXJHUXBaWjZ1d3NSNkJXd1Aw",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nEjfSISnx0-r1d46BAOlUzH69R0\"",
+      "id": "UgwzSB6PmphiEmjGcVh4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Hx_WbIxfnkp8Aiztk9W8B9M2T_I\"",
+          "id": "UgwzSB6PmphiEmjGcVh4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Philip DeFranco",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-nPmtKfa70lE/AAAAAAAAAAI/AAAAAAAAAAA/E66oeUI2kFw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClFSU9_bUb4Rc6OYfTt5SPw",
+            "authorChannelId": {
+              "value": "UClFSU9_bUb4Rc6OYfTt5SPw"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "Happy Friday, Nation!  GoFundMe Scam (00:15), Red Table Talk Sets Record (2:12), TIA (3:56), HIV Cure Advancements (5:45), Trudeau Lavalin Controversy (9:44)",
+            "textOriginal": "Happy Friday, Nation! \nGoFundMe Scam (00:15), Red Table Talk Sets Record (2:12), TIA (3:56), HIV Cure Advancements (5:45), Trudeau Lavalin Controversy (9:44)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 390,
+            "publishedAt": "2019-03-08T22:41:30.000Z",
+            "updatedAt": "2019-03-08T22:41:30.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 52,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XPjXsTMv88_c9Q3BLP46ealNJCk\"",
+            "id": "UgwzSB6PmphiEmjGcVh4AaABAg.8sER5uA7Kq_8sEhr3e2sXo",
+            "snippet": {
+              "authorDisplayName": "Alicia Richards",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/-vgZUHQypQ_Q/AAAAAAAAAAI/AAAAAAAAAAA/uBOUDKaw9Qw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCZtd6QfMuG8OUyWPb8RBpJw",
+              "authorChannelId": {
+                "value": "UCZtd6QfMuG8OUyWPb8RBpJw"
+              },
+              "videoId": "EoiyJXsNerI",
+              "textDisplay": "Thank you Phil for covering the Trudeau story, I’ve been really busy as of late and haven’t had the chance to jump into it! Really appreciate Philing me in to what’s going on in my country!",
+              "textOriginal": "Thank you Phil for covering the Trudeau story, I’ve been really busy as of late and haven’t had the chance to jump into it! Really appreciate Philing me in to what’s going on in my country!",
+              "parentId": "UgwzSB6PmphiEmjGcVh4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2019-03-09T01:16:38.000Z",
+              "updatedAt": "2019-03-09T01:16:38.000Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/a6Lj3MDo3uezwjthv5gzDcjoJ00\"",
+            "id": "UgwzSB6PmphiEmjGcVh4AaABAg.8sER5uA7Kq_8sEhWb-Ux27",
+            "snippet": {
+              "authorDisplayName": "Kaitlyn Lina",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/-tH-nY81gTzY/AAAAAAAAAAI/AAAAAAAAAAA/pA7CZwNBXow/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCV8KxjwpzxZ9NRljBCGqdAQ",
+              "authorChannelId": {
+                "value": "UCV8KxjwpzxZ9NRljBCGqdAQ"
+              },
+              "videoId": "EoiyJXsNerI",
+              "textDisplay": "Phil the intro scares the shit out of me lmao",
+              "textOriginal": "Phil the intro scares the shit out of me lmao",
+              "parentId": "UgwzSB6PmphiEmjGcVh4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2019-03-09T01:13:42.000Z",
+              "updatedAt": "2019-03-09T01:13:42.000Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YyjVCoqYItHLhixdgLg2Y-WQLb4\"",
+            "id": "UgwzSB6PmphiEmjGcVh4AaABAg.8sER5uA7Kq_8sEgJexVWT4",
+            "snippet": {
+              "authorDisplayName": "Kerry Godbout",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/-NTXmH4tSvfw/AAAAAAAAAAI/AAAAAAAAAAA/pdXXqYdGajE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCnfWj1qle-IadBPy84VpH_A",
+              "authorChannelId": {
+                "value": "UCnfWj1qle-IadBPy84VpH_A"
+              },
+              "videoId": "EoiyJXsNerI",
+              "textDisplay": "Philip DeFranco I voted for Trudeau and I applauded all of the progressive things he did but now I am so disappointed. As you follow this story please look into two things of note: 1) how much of Quebec pensions are tied up in SNC Lavalin. My husband in québécois and he thinks it’s about 20% which is HUGE.  2) I’m albertan and our oil and gas industry/economy is suffering because of this governments inability to move forward on a pipeline. Where is the concern about our jobs out west?",
+              "textOriginal": "Philip DeFranco I voted for Trudeau and I applauded all of the progressive things he did but now I am so disappointed. As you follow this story please look into two things of note: \n1) how much of Quebec pensions are tied up in SNC Lavalin. My husband in québécois and he thinks it’s about 20% which is HUGE. \n2) I’m albertan and our oil and gas industry/economy is suffering because of this governments inability to move forward on a pipeline. Where is the concern about our jobs out west?",
+              "parentId": "UgwzSB6PmphiEmjGcVh4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2019-03-09T01:03:12.000Z",
+              "updatedAt": "2019-03-09T01:03:12.000Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/UD9gJqDEhGViyJB-mYdFebsoBUA\"",
+            "id": "UgwzSB6PmphiEmjGcVh4AaABAg.8sER5uA7Kq_8sEe9Lr7DD_",
+            "snippet": {
+              "authorDisplayName": "Travis Palmer",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/-xr422cQaTj8/AAAAAAAAAAI/AAAAAAAAAAA/1J-mT7Yhr_g/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCIOvu1vNVrb5HSj-Xgh9FDw",
+              "authorChannelId": {
+                "value": "UCIOvu1vNVrb5HSj-Xgh9FDw"
+              },
+              "videoId": "EoiyJXsNerI",
+              "textDisplay": "Prof. Weed pretty sad seeing american dirty politics creeping up here now. Very sad day for Canada, and therefore, the world",
+              "textOriginal": "Prof. Weed pretty sad seeing american dirty politics creeping up here now. Very sad day for Canada, and therefore, the world",
+              "parentId": "UgwzSB6PmphiEmjGcVh4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2019-03-09T00:44:18.000Z",
+              "updatedAt": "2019-03-09T00:44:18.000Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HkOOq40YBXfQVnIO-803giuzSeE\"",
+            "id": "UgwzSB6PmphiEmjGcVh4AaABAg.8sER5uA7Kq_8sEcwknoPAt",
+            "snippet": {
+              "authorDisplayName": "redy2rumbl",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/-kqTZxmGq1mU/AAAAAAAAAAI/AAAAAAAAAAA/JqM-x_6T4D8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCNhUaM2BuaoVppsw5h01FrA",
+              "authorChannelId": {
+                "value": "UCNhUaM2BuaoVppsw5h01FrA"
+              },
+              "videoId": "EoiyJXsNerI",
+              "textDisplay": "What is the difference from making a fake give money to homeless people video and making a fake go fund me for homeless. they both make money",
+              "textOriginal": "What is the difference from making a fake give money to homeless people video and making a fake go fund me for homeless. they both make money",
+              "parentId": "UgwzSB6PmphiEmjGcVh4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2019-03-09T00:33:43.000Z",
+              "updatedAt": "2019-03-09T00:33:43.000Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zLaf05AN_rBqXiscroVk608mLeg\"",
+      "id": "Ugxyn9oI5XwTh9y0cmN4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/otzcjqFJufkbUZYNfHcS9lKZjsk\"",
+          "id": "Ugxyn9oI5XwTh9y0cmN4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Nick Knight",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-sDktEdul4c0/AAAAAAAAAAI/AAAAAAAAAAA/L7atdHA56ZM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2JjA4IFbGrVEn-0KWE1_mA",
+            "authorChannelId": {
+              "value": "UC2JjA4IFbGrVEn-0KWE1_mA"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "I'm from Canada (British Columbia to be exact) and I'm happy to hear you talking about our country. I have not heard anyone say a good word about Trudeau,  I personally don't believe that he that bad nor that great.",
+            "textOriginal": "I'm from Canada (British Columbia to be exact) and I'm happy to hear you talking about our country. I have not heard anyone say a good word about Trudeau,  I personally don't believe that he that bad nor that great.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:18:46.000Z",
+            "updatedAt": "2019-03-09T01:18:46.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ofPnTmL3X33e6JoVVskRTK1OdOc\"",
+      "id": "Ugx1UeV5mPWAL1gYkTR4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AMA1U_mle4n2oRKbHSl44nNuEn4\"",
+          "id": "Ugx1UeV5mPWAL1gYkTR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Siddharth Krishnan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-wt1NjYiZerY/AAAAAAAAAAI/AAAAAAAAAAA/LNZZnBWQkQk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyhPhaYHtDFv-l2SWOqpY_g",
+            "authorChannelId": {
+              "value": "UCyhPhaYHtDFv-l2SWOqpY_g"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "Thank you for giving us some good news. As far as I am aware no one I know suffers HIV/AIDS but this makes me really happy",
+            "textOriginal": "Thank you for giving us some good news. As far as I am aware no one I know suffers HIV/AIDS but this makes me really happy",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:18:42.000Z",
+            "updatedAt": "2019-03-09T01:18:42.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yc7YVY6h0Kx6IwF9CAzjENEZRCo\"",
+      "id": "UgxW_u0Jr52_-gAkKWV4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NYYRGYsM5p152UE0DSAksNrAzgo\"",
+          "id": "UgxW_u0Jr52_-gAkKWV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Cornella Steele",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Ygif-taU8z4/AAAAAAAAAAI/AAAAAAAAAAA/R5wY1aev8Rw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNbPetahjXmGAmhIZgZ0C9Q",
+            "authorChannelId": {
+              "value": "UCNbPetahjXmGAmhIZgZ0C9Q"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "In Canada there is already some frustration with Trudeau  because of promises he hasn’t kept, I truly doubt in his ability to keep his party for the federal election. It’d be best if he stepped down and had someone replace him as leader for the party.",
+            "textOriginal": "In Canada there is already some frustration with Trudeau  because of promises he hasn’t kept, I truly doubt in his ability to keep his party for the federal election. It’d be best if he stepped down and had someone replace him as leader for the party.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:18:31.000Z",
+            "updatedAt": "2019-03-09T01:18:31.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-CYTtBE2Iz1TYg9ZlDVxAIiHAoU\"",
+      "id": "UgyN-tus2UYDwJ3WQxV4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/egSTrhiImS-Rq3VzOanrKdoN0fU\"",
+          "id": "UgyN-tus2UYDwJ3WQxV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "aarron teisson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-b4cvx1UNrx8/AAAAAAAAAAI/AAAAAAAAAAA/xaaBsQWtBIg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQOpPj2vhApZR7onw_s3vvQ",
+            "authorChannelId": {
+              "value": "UCQOpPj2vhApZR7onw_s3vvQ"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "turdeau NEEDS to step down, he is a horrible leader. even calling him a leader is too much credit",
+            "textOriginal": "turdeau NEEDS to step down, he is a horrible leader. even calling him a leader is too much credit",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:18:11.000Z",
+            "updatedAt": "2019-03-09T01:18:11.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bNU4y9-8ZIZlYq0tNRXovAupJtI\"",
+      "id": "UgwiPeyXmyMyYz43JRt4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/k_lUnntvDDRI-GlvzCkKlZHwY0s\"",
+          "id": "UgwiPeyXmyMyYz43JRt4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Hinewai",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-_oDcM_1NnUM/AAAAAAAAAAI/AAAAAAAAAAA/HG4Gk5S1iBs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnYfoT3OW7EGKSLFRjFq3kg",
+            "authorChannelId": {
+              "value": "UCnYfoT3OW7EGKSLFRjFq3kg"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "I really enjoy having clips from your show on Facebook because it makes it easier to share big stories to people that may not watch you or that only get their news from TV",
+            "textOriginal": "I really enjoy having clips from your show on Facebook because it makes it easier to share big stories to people that may not watch you or that only get their news from TV",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:56.000Z",
+            "updatedAt": "2019-03-09T01:17:56.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FjtrIAEjI6zyliFK3zFrxJAdDkM\"",
+      "id": "Ugy3KK9j_ErX8Jd3mY14AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fGOG35sGEmiBaJKOXOVke23_3W0\"",
+          "id": "Ugy3KK9j_ErX8Jd3mY14AaABAg",
+          "snippet": {
+            "authorDisplayName": "Michael Balls",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-d1NjoazLV3s/AAAAAAAAAAI/AAAAAAAAAAA/cWQt0MYlMGQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7kSOR4Pdt1kV7XKZr0JVgA",
+            "authorChannelId": {
+              "value": "UC7kSOR4Pdt1kV7XKZr0JVgA"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textOriginal": "Trudeau is a traitorous, lying, pretty-faced bastard.  Period.  I mean, seriously—*this* is the straw to break the camel's back?\n\n\"I've heard loudly and clearly that Canadians want a better system of governance, a better system of choosing our governments, and I'm working very hard so that 2015 is indeed the last election under first-past-the-post\" \n\nThat was arguably the keystone of the Liberals' 2015 platform.  Masses of us voted for Trudeau as an organized strategic bloc in order to oust the tyrant Harper and ensure a future where such corruption could no longer run unchecked.  Upon winning the election, one of Trudeau's first actions was to try and tell us that there was no indication that the nation wanted a fair voting system.  We *strongly* advised him otherwise.  He gave us a bloody *web survey* (from SurveyMonkey, IIRC), brimming with trick questions and slippery wording,  We gave him all the correct answers, in droves.  So he simply threw all the evidence—and his promise, and the good of the nation, and the will of its people—out the window.\n\nAnd since then he's been handing out billions of dollars of corporate blowjobs right and left, interspersed with purely cosmetic 'progressive' legislation, photo ops, and an official Marvel comic book appearance in which he punches out Tony Stark.  That's right.  Our Hero Trudeau knocked out an imaginary superhero.  Yaaaaaay team Canada.\n\nI never want to see another Conservative majority government.  But I never want to see another majority Liberal government either.  Both parties need to die and make space for representatives that are not utterly corrupt and ethically spineless.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:54.000Z",
+            "updatedAt": "2019-03-09T01:17:54.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3ube1uVf6kNgcPjPPfOCaEJDXBg\"",
+      "id": "UgyMIbQmu_Y72IsvXiR4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ldGhDSl4PVlHXj7icHPeyofNsh4\"",
+          "id": "UgyMIbQmu_Y72IsvXiR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Isori",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-tVYa46Tz5F0/AAAAAAAAAAI/AAAAAAAAAAA/ffShksaCODA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0IzkWRWw5cEYXUSKUBxwDw",
+            "authorChannelId": {
+              "value": "UC0IzkWRWw5cEYXUSKUBxwDw"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textOriginal": "\"...exhaustively consider options.\" So why even have corruption laws if the jobs affected are enough to make moot their execution? Every prosecution on that level would have negative impacts on a company and it's workers, so if their jobs \"must be considered\" before taking legal, correct and predicted action, why even bother? What kind of stupid argument is that? Of course, the ramifications must be studied, but the way it's put it's almost as if there was a consideration for not taking action!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:49.000Z",
+            "updatedAt": "2019-03-09T01:17:49.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PigHl0Pv1xLQ_P4PX2pLC4KvxM8\"",
+      "id": "UgzknwfwxkbZigQznRR4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JI0CgmjaGKF4SP9jBHVfH5s8If0\"",
+          "id": "UgzknwfwxkbZigQznRR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Nathan Costa",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-W6dEnQpeqKo/AAAAAAAAAAI/AAAAAAAAAAA/H5NLVM51HBM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCc5iW9wpk3b-LVzeLamMQTA",
+            "authorChannelId": {
+              "value": "UCc5iW9wpk3b-LVzeLamMQTA"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "With Justin Trudeau, yeah I have a believe he did something wrong, but I’m still waiting for a solid investigation by the RCMP. But no where did he do anything as bad as trump, but that’s how the conservatives are acting. I just think everyone is blowing it out of proportion and needs to wait until everything is out and an investigation happens before we say anything",
+            "textOriginal": "With Justin Trudeau, yeah I have a believe he did something wrong, but I’m still waiting for a solid investigation by the RCMP. But no where did he do anything as bad as trump, but that’s how the conservatives are acting. I just think everyone is blowing it out of proportion and needs to wait until everything is out and an investigation happens before we say anything",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:38.000Z",
+            "updatedAt": "2019-03-09T01:17:38.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lpjtxBMTWkz1UAM5VxbdqIk1Xh0\"",
+      "id": "UgywhREgIu7JjjicbvV4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iRC0JpTbaOS9bwWMCbrcoVimn2I\"",
+          "id": "UgywhREgIu7JjjicbvV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "IgniteTheShadow",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/--x2RibMhtTk/AAAAAAAAAAI/AAAAAAAAAAA/ZuPNG5Dk5jo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzXzoDqbh4rDVWOQv1MffVA",
+            "authorChannelId": {
+              "value": "UCzXzoDqbh4rDVWOQv1MffVA"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "Video consumption - basically just youtube and Twitch",
+            "textOriginal": "Video consumption - basically just youtube and Twitch",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:35.000Z",
+            "updatedAt": "2019-03-09T01:17:35.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/avqmgsDREjOBykEx3TgL4tTWwQA\"",
+      "id": "UgxzuCY6H8Cl-Kj1PUx4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XS4JanxylnYYcPa8sGovqWGmbbw\"",
+          "id": "UgxzuCY6H8Cl-Kj1PUx4AaABAg",
+          "snippet": {
+            "authorDisplayName": "guyman8282",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-b_A8wjv0VEw/AAAAAAAAAAI/AAAAAAAAAAA/yJd2myBr_5E/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCf-_bGRvNogHDh5vpNULH1g",
+            "authorChannelId": {
+              "value": "UCf-_bGRvNogHDh5vpNULH1g"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "Other than YouTube I only watch pornhub 🤩",
+            "textOriginal": "Other than YouTube I only watch pornhub 🤩",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:31.000Z",
+            "updatedAt": "2019-03-09T01:17:31.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rkEWDy7LIVNSh1mx3iIYg-oWWPk\"",
+      "id": "UgxJUNfUmD7Q36hOHD14AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3mnrG1flItswG1P3q17xfpfS3RA\"",
+          "id": "UgxJUNfUmD7Q36hOHD14AaABAg",
+          "snippet": {
+            "authorDisplayName": "sorry m8",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-KZ38wtGNmvE/AAAAAAAAAAI/AAAAAAAAAAA/ewcqj-y3DO4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCH8dlKTresTdoxiF1v5oxug",
+            "authorChannelId": {
+              "value": "UCH8dlKTresTdoxiF1v5oxug"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "This HIV news is amazing. It's amazing what people are capable of doing.",
+            "textOriginal": "This HIV news is amazing. It's amazing what people are capable of doing.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:30.000Z",
+            "updatedAt": "2019-03-09T01:17:30.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xAovZRQTPo74UJeQlaWkaVWT-9c\"",
+      "id": "UgyRy5PpU97Fwg31cL14AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_5UVZrrZRuBjw_nF2vDsF49JSgA\"",
+          "id": "UgyRy5PpU97Fwg31cL14AaABAg",
+          "snippet": {
+            "authorDisplayName": "Dansbury",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-teFfDVjw_b4/AAAAAAAAAAI/AAAAAAAAAAA/StRxVnyHaf4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2OyGMwSEI0JvLms4-JJ15w",
+            "authorChannelId": {
+              "value": "UC2OyGMwSEI0JvLms4-JJ15w"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "Other than youtube I watch videos linked on Reddit. Moat of which are on... YouTube",
+            "textOriginal": "Other than youtube I watch videos linked on Reddit. Moat of which are on... YouTube",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:27.000Z",
+            "updatedAt": "2019-03-09T01:17:27.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cZYYcKkT61corJ9vcUI19TLSFJg\"",
+      "id": "Ugz-4SMRPo3wWT0fq8h4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YGuJQjUO7G4dSaybBpiSJ6nj1o0\"",
+          "id": "Ugz-4SMRPo3wWT0fq8h4AaABAg",
+          "snippet": {
+            "authorDisplayName": "AlphaPT",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-b9r0f3vu6aM/AAAAAAAAAAI/AAAAAAAAAAA/lfSOCLBFEbQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC99mnawVFnEYJE_zjVUSslg",
+            "authorChannelId": {
+              "value": "UC99mnawVFnEYJE_zjVUSslg"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "I'm a bit disappointed that Phil did not reported on Marvel\\Disney using Stan Lee's Twitter account today to promote Cpt Marvel. That was a shitty thing to do, and everyone should know of it.",
+            "textOriginal": "I'm a bit disappointed that Phil did not reported on Marvel\\Disney using Stan Lee's Twitter account today to promote Cpt Marvel. That was a shitty thing to do, and everyone should know of it.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-03-09T01:17:26.000Z",
+            "updatedAt": "2019-03-09T01:17:26.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2UtSaLgOZefVI5-TEezTW8Xw9H4\"",
+      "id": "UgwEsZvmToBOWY-ncqZ4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2r30TxJPcnXYfDRz0oCHxOHgDZc\"",
+          "id": "UgwEsZvmToBOWY-ncqZ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Teth47",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-lLqC7wA_z-Y/AAAAAAAAAAI/AAAAAAAAAAA/uV8C7_IH9N8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC93ci3P6tqyOBXSiWtKlR0Q",
+            "authorChannelId": {
+              "value": "UC93ci3P6tqyOBXSiWtKlR0Q"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textOriginal": "Canadian centre-libertarian-left here. When he was elected, I jokingly called Trudeau \"Left Trump\". I'm more right by the day. Modern geopolitics is literally a circus, this is exhausting.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:17:19.000Z",
+            "updatedAt": "2019-03-09T01:17:19.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_I5vQ4g--vcJ7nIUe5xVJFTxju4\"",
+      "id": "UgwtFYdO-fXeyVPpob54AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9lT0Z2ooSKWwRjo-tKls90RTfE4\"",
+          "id": "UgwtFYdO-fXeyVPpob54AaABAg",
+          "snippet": {
+            "authorDisplayName": "Doubleo497",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ZwybCNDULeY/AAAAAAAAAAI/AAAAAAAAAAA/L6KxYelUJ4A/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9TQC9HFKT01CkYf6k--Oyg",
+            "authorChannelId": {
+              "value": "UC9TQC9HFKT01CkYf6k--Oyg"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "Thanks for covering more Canadian news!",
+            "textOriginal": "Thanks for covering more Canadian news!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:16:47.000Z",
+            "updatedAt": "2019-03-09T01:16:47.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/S-blvbzh3v_XsftIqyRzGl-MPZU\"",
+      "id": "Ugw8NdtnyM5XrduZugd4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fCEp7B_MOzVCdzcXxzQJ6r55DUQ\"",
+          "id": "Ugw8NdtnyM5XrduZugd4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Carla Brown",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-olMYVzlgdPo/AAAAAAAAAAI/AAAAAAAAAAA/ZbfSWbi2BkQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaomsLqexOHk0eHKrt9mz3g",
+            "authorChannelId": {
+              "value": "UCaomsLqexOHk0eHKrt9mz3g"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "This is what comes of electing a former substitute drama teacher to run your country. He really brought the drama.",
+            "textOriginal": "This is what comes of electing a former substitute drama teacher to run your country. He really brought the drama.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:16:45.000Z",
+            "updatedAt": "2019-03-09T01:16:45.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/m3ClgOE8gUKmNNmFzQAa4Drjl2s\"",
+      "id": "UgxsO76nKpxrmksXTNV4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pkLNJdRIUSNBr1LfMU97NaXCH8k\"",
+          "id": "UgxsO76nKpxrmksXTNV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Munozl360",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-cIw9zf68aNM/AAAAAAAAAAI/AAAAAAAAAAA/8ZTeZki7oNQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOv934bIBJpTgAl9qdg3Rvg",
+            "authorChannelId": {
+              "value": "UCOv934bIBJpTgAl9qdg3Rvg"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "Not a long enough sentence",
+            "textOriginal": "Not a long enough sentence",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:16:26.000Z",
+            "updatedAt": "2019-03-09T01:16:26.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/murD1B2NjMVYdL2AMuMWi_TY32k\"",
+      "id": "UgyZc6xQn8EpZdyn-Et4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_-Pt4hdtZgZWOD7_gSgV3PL3ADI\"",
+          "id": "UgyZc6xQn8EpZdyn-Et4AaABAg",
+          "snippet": {
+            "authorDisplayName": "kingofwake",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-pvrM0O9wOO0/AAAAAAAAAAI/AAAAAAAAAAA/yEJ3gaA0ukA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFnGJYbccvqTkN1W0mna00g",
+            "authorChannelId": {
+              "value": "UCFnGJYbccvqTkN1W0mna00g"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "Thanks for covering the Trudeau story! Hope he resigns!",
+            "textOriginal": "Thanks for covering the Trudeau story! Hope he resigns!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:16:18.000Z",
+            "updatedAt": "2019-03-09T01:16:18.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EY0dlu_ixi9wEH_Wxt23h37EF0w\"",
+      "id": "Ugx3VjXAiZp9MiDHGzN4AaABAg",
+      "snippet": {
+        "videoId": "EoiyJXsNerI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2SkTxNr2sOQAeSkW6_E8pb-KQz4\"",
+          "id": "Ugx3VjXAiZp9MiDHGzN4AaABAg",
+          "snippet": {
+            "authorDisplayName": "S7venseas",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-8o2ILQHlRXk/AAAAAAAAAAI/AAAAAAAAAAA/Javf8a1eH7k/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1exA3BqeGrUR90UQRsnDeg",
+            "authorChannelId": {
+              "value": "UC1exA3BqeGrUR90UQRsnDeg"
+            },
+            "videoId": "EoiyJXsNerI",
+            "textDisplay": "I consume a lot of videos on pornhub. Anytime now Phil.",
+            "textOriginal": "I consume a lot of videos on pornhub. Anytime now Phil.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-03-09T01:16:04.000Z",
+            "updatedAt": "2019-03-09T01:16:04.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
