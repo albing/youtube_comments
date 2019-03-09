@@ -1,5 +1,15 @@
 # Youtube Comments Word Counter
 
+> Counts words for you, so you don't have to.
+
+### Info
+
+Creates a lot of `savedata*.dat` files; use those for recovery, or delete them, see if I care.
+
+The one you do want to save is results.dat - it's a json dump of the unadulterated words dict.
+
+### Example
+
 video id: [EoiyJXsNerI](https://www.youtube.com/watch?v=EoiyJXsNerI)
 
 ```
