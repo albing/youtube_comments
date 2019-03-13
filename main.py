@@ -1,19 +1,23 @@
+import itertools
 import json
 import logging
 import os
 import string
-from collections import defaultdict
 
 from requests import get
 
+from predictor import Predictor
+
+use_api = True
 API_KEY=os.getenv('API_KEY')
-if not API_KEY:
+if not API_KEY and use_api:
     logging.error("Need an API key in $API_KEY, bucko.")
     exit(1)
 
 logging.getLogger().setLevel(logging.INFO)
 
-words = defaultdict(int)
+words = Predictor()
+video_id = ''
 
 def getWords(comments, i):
     for comment in comments:
@@ -28,17 +32,37 @@ def getWords(comments, i):
             # collect us some words
             logging.debug((" "*i) + "comment")
             for word in comment['snippet']['textOriginal'].split():
+                # remove punctuation and normalize to lower case
                 word = word.translate(str.maketrans("","",string.punctuation))
                 word = word.lower()
-                words[word] += 1
+                # then save
+                words.add(word)
+            words.terminate()
 
         else:
             # thiiiiiiiis shouldn't happen... :\
             logging.warning(f"found a {comment['kind']}")
 
-def getPages(token=None, i=0):
+
+def get_pages_files():
+    for i in itertools.count():
+
+        # read the data from the file.  ignore the first 2 lines
+        try:
+            with open(f'savedata{i}.dat', 'r') as f:
+                for line_no, line in enumerate(f):
+                    if line_no == 2:   # 3rd line
+                        comments = json.loads(line)
+        except:
+            return
+
+        # start a'countin'
+        getWords(comments['items'], 0)
+
+
+def get_pages_api(token=None, i=0):
     # Step 1: fetch
-    url = f'https://www.googleapis.com/youtube/v3/commentThreads?part=snippet%2Creplies&videoId=EoiyJXsNerI&key={API_KEY}'
+    url = f'https://www.googleapis.com/youtube/v3/commentThreads?part=snippet%2Creplies&videoId={video_id}&key={API_KEY}'
     if token:
         url += f'&pageToken={token}'
     logging.info(f"fetching {i}")
@@ -61,13 +85,16 @@ def getPages(token=None, i=0):
     # Step 3: repeat
     new_token = comments.get('nextPageToken')
     if new_token:
-        getPages(new_token, i+1)
+        get_pages_api(new_token, i+1)
 
-getPages()
+#video_id = 'mIKsW0FgRzQ' # vietnam = mIKsW0FgRzQ
+video_id = 'EoiyJXsNerI' # defranco = EoiyJXsNerI
+#video_id = 'FO0iG_P0P6M' # oliver = FO0iG_P0P6M
 
-for word, count in words.items():
-    if count > 10:
-        print(f"{word}{' '*(40-len(word))}{count}")
+get_pages_api()
+with open(f'results_{video_id}.dat', 'w') as f:
+    f.write(json.dumps(words.dict()))
+#get_pages_files()
 
-with open('results.dat', 'w') as f:
-    f.write(json.dumps(words))
+#for word, nexts in words.dict().items():
+#    print(f"{word}{' '*(20-len(word))}{nexts}")
